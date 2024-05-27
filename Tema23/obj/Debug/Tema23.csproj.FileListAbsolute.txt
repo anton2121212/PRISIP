@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Tema23\bin\Debug\Tema23.exe.config
+C:\Users\Kab-35-6\Desktop\Tema23\bin\Debug\Tema23.exe
+C:\Users\Kab-35-6\Desktop\Tema23\bin\Debug\Tema23.pdb
+C:\Users\Kab-35-6\Desktop\Tema23\obj\Debug\Tema23.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Tema23\obj\Debug\Tema23.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Tema23\obj\Debug\Tema23.exe
+C:\Users\Kab-35-6\Desktop\Tema23\obj\Debug\Tema23.pdb
